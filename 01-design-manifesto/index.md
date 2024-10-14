@@ -15,7 +15,7 @@
 #### Priorities
 - Work for brands that deserve it
 #### Be lazy
-- Find the easiest way to do the job well and <span style="color:#ef8a17">_save time_</span>.
+- Find the easiest way to do the job well and <span style="color:#a6ce39">_save time_</span>.
 - Work smart, not hard.
 #### Don't give up
 - My [friend](https://github.com/sprtokiller) once told me <span style="color:#a6ce39">_**``"Všechno jde, když se chce"``**_</span> meaning Everything goes well if you put your mind to it!
