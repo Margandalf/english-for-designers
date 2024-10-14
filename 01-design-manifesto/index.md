@@ -7,7 +7,7 @@
 - NO to waste
 - NO to big fancy corporate
 #### Teamwork
-- NO job can be done as well as when we work on it with friends
+- NO job can be done as well as when we work on it with <span style="color:#ef8a17">friends</span>
 - comunity is a big help
 
  <img src="https://github.com/user-attachments/assets/55939860-46a7-44a5-97d8-46858415ba9a" alt="Alt Text" width="300" height="200">
@@ -23,7 +23,7 @@
 - Trust your opinion
 - Live healthy
 #### Break the rules
-- Sometimes it's just better to leave all the rules behind not to be bound by them
+- Sometimes it's just better to leave all the rules behind and just let the <span style="color:#ef8a17">flow</span> take you with it
   
 <pre>
 ⢸⣷⡦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
