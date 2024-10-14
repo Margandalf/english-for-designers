@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/50ab2ce5-95af-4e34-8b32-4380fd7a69c5)# Design Manifesto
-
+![image](https://github.com/user-attachments/assets/50ab2ce5-95af-4e34-8b32-4380fd7a69c5)
+# Design Manifesto
 ### Prosperous
 - NO design is worth doing if it brings no good
 - NO to waste
