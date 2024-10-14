@@ -1,4 +1,5 @@
 # Design Manifesto
+
 #### Prosperous
 - NO design is worth doing if it brings no good
 - NO to waste
