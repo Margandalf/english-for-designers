@@ -1,6 +1,6 @@
 # Design Manifesto
 
-### $\color{#ef8a17}{My~Manifesto!}$
+$\color{#ef8a17}{My~Manifesto!}$
 
 #### Prosperous
 - NO design is worth doing if it brings no good
