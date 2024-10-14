@@ -18,7 +18,7 @@
 - Find the easiest way to do the job well and save your time.
 - Work smart, not hard.
 #### Don't give up
-- My [friend](https://github.com/sprtokiller) once told me _**``"Všechno jde, když se chce"``**_ meaning Everything goes well if you put your mind to it!
+- My [friend](https://github.com/sprtokiller) once told me <span style="color:#ef8a17">_*``**"Všechno jde, když se chce"**``*_</span> meaning Everything goes well if you put your mind to it!
 #### Self-esteem
 - Trust your opinion
 - Live healthy
