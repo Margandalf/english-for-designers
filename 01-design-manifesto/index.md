@@ -18,5 +18,5 @@
 #### Self-esteem
 - Trust your opinion
 - Live healthy
-### Break the rules
+#### Break the rules
 - Sometimes it's just better to leave all the rules behind not to be bound by them
