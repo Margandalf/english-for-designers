@@ -1,6 +1,6 @@
 # Design Manifesto
 
-### My manifesto
+### $\color{#ef8a17}{My~Manifesto!}$
 
 #### Prosperous
 - NO design is worth doing if it brings no good
@@ -17,7 +17,7 @@
 - Find the easiest way to do the job well and save your time.
 - Work smart, not hard.
 #### Don't give up
-- My [friend](https://github.com/sprtokiller) told me _**``"Všechno jde, když se chce"``**_ meaning Everything goes well if you put your mind to it!
+- My [friend](https://github.com/sprtokiller) once told me _**``"Všechno jde, když se chce"``**_ meaning Everything goes well if you put your mind to it!
 #### Self-esteem
 - Trust your opinion
 - Live healthy
