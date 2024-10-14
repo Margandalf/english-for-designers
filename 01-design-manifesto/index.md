@@ -1,6 +1,5 @@
 # Design Manifesto
 
-$\color{#ef8a17}{My~Manifesto!}$
 <span style="color:ef8a17">*My Manifesto*</span>.
 
 #### Prosperous
