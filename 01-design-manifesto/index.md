@@ -1,6 +1,6 @@
 # Design Manifesto
 
-# <span style="color:ef8a17">*My Manifesto*</span>.
+#<span style="color:ef8a17">*My Manifesto*</span>.
 
 #### Prosperous
 - NO design is worth doing if it brings no good
