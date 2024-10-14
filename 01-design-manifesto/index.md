@@ -1,5 +1,6 @@
 # Design Manifesto
 
+### My manifesto
 
 #### Prosperous
 - NO design is worth doing if it brings no good
@@ -8,6 +9,7 @@
 #### Teamwork
 - NO job can be done as well as when we work on it with friends
 - comunity is a big help
+![IMG_6323](https://github.com/user-attachments/assets/55939860-46a7-44a5-97d8-46858415ba9a)
 #### Priorities
 - Work for brands that deserve it
 #### Be lazy
