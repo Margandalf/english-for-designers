@@ -1,5 +1,5 @@
 # Design Manifesto
-### Prosperous
+#### Prosperous
 - NO design is worth doing if it brings no good
 - NO to waste
 - NO to big fancy corporate
@@ -12,4 +12,4 @@
 - Find the easiest way to do the job well and save your time.
 - Work smart, not hard.
 ### Don't give up
-- My [friend](https://github.com/sprtokiller) told me ``Všechno jde, když se chce`` meaning Everything goes well if you put your mind to it!
+- My [friend](https://github.com/sprtokiller) told me ``"Všechno jde, když se chce"`` meaning Everything goes well if you put your mind to it!
