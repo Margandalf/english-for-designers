@@ -14,3 +14,8 @@
 - Work smart, not hard.
 #### Don't give up
 - My [friend](https://github.com/sprtokiller) told me ``"Všechno jde, když se chce"`` meaning Everything goes well if you put your mind to it!
+#### Self-esteem
+- Trust your opinion
+- Live healthy
+### Break the rules
+- Sometimes it's just better to leave all the rules behind not to be bound by them
