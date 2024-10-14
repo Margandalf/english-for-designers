@@ -21,7 +21,7 @@
 - Work smart, not hard.
 
 #### Don't give up
-- My [friend](https://github.com/sprtokiller) once told me <span style="color:#a6ce39">_``"Všechno jde, když se chce"``_</span> meaning Everything goes well if you put your mind to it!
+- My [friend](https://github.com/sprtokiller) once told me <span style="color:#a6ce39">_"Všechno jde, když se chce"_</span> meaning Everything goes well if you put your mind to it!
 
 #### Self-esteem
 - Trust your opinion
