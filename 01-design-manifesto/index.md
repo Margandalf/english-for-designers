@@ -16,6 +16,9 @@
 #### Priorities
 - Work for brands that deserve it
 
+#### Be cool
+- Get along with the trends and apreaciate the standards!
+
 #### Be lazy
 - Find the easiest way to do the job well and <span style="color:#a6ce39">_save time_</span>.
 - Work smart, not hard.
