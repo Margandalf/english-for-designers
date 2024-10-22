@@ -10,7 +10,7 @@ Work in a corporate? Why should I do anything if it brings no good? Work for bra
 
 I like to share success with my <span style="color:#a6ce39">_friends_</span> and to be a part of a community. As mentioned in my favorite poem ["When all these creatures move what a wonderful noise there'll be!"](https://www.poetryfoundation.org/poems/44604/the-quangle-wangles-hat)
 
-Don't be shamed for the process you've been through. Show it to your clients so they see the effort you put into the reaserch the trends and that you apreaciate the standards.
+Don't be shamed for the process you've been through. Show it to your clients so they see the effort you have put into the research. I enjoy the trends and value the standards.
 
  <img src="https://github.com/user-attachments/assets/55939860-46a7-44a5-97d8-46858415ba9a" alt="Alt Text" width="300" height="200">
 
