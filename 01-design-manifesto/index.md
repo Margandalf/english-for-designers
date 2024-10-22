@@ -2,9 +2,7 @@
 
 <span style="color:#ef8a17">*My Manifesto · last edit 22. 10. 2024*</span>
 
-I dearly love to observe and to create.
-
-No eyes no hands? I fear there would be no reason for me to cherrish such life.
+I dearly love to observe and to create. No eyes no hands? I fear there would be no reason for me to cherrish such life.
 
 Work in a corporate? Why should I do anything if it brings no good? Work for brands that DESERVE it!
 
