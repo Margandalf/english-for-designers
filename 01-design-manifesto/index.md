@@ -1,6 +1,6 @@
 # Design Manifesto
 
-<span style="color:#a6ce39">*My Manifesto 𓆉 ･ﾟ*</span>
+<span style="color:#a6ce39">*My Manifesto · last edit 22. 10. 2024*</span>
 
 #### Be Prosperous
 - NO design is worth doing if it brings no good
