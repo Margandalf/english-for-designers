@@ -8,7 +8,8 @@ No eyes no hands? I fear there would be no reason for me to cherrish such life.
 
 Work in a corporate? Why should I do anything if it brings no good? Work for brands that DESERVE it!
 
-I like to share success with my <span style="color:#ef8a17">_friends_</span> and to be a part of a community. As mentioned in my favorite poem ["When all these creatures move what a wonderful noise there'll be!"](https://www.poetryfoundation.org/poems/44604/the-quangle-wangles-hat)
+I like to share success with my <span style="color:#ef8a17">_friends_</span> and to be a part of a community. As mentioned in my favorite poem 
+> ["When all these creatures move what a wonderful noise there'll be!"](https://www.poetryfoundation.org/poems/44604/the-quangle-wangles-hat)
 
 It was so hard not to be shamed for the process I have been through. But the clients will never appreaciate the effort if I keep it to myself. I enjoy the trends and value the standards.
 
