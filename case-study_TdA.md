@@ -8,7 +8,7 @@ When you have a developer, they work with elements slightly differently then gra
 ### not a good idea
 
 ![Snímek obrazovky 2025-03-04 131210](https://github.com/user-attachments/assets/be2022c7-bd06-46a8-b070-83914022e6a5)
-1. We have to work with developer friendly fonts
+1. Lesson: Work with developer friendly fonts
 
 First try
 
