@@ -1,3 +1,5 @@
+# Think different when you work with developers
+
 So we have this competition for young developers to show them the real deal when doing a project. High schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
 In my part, they are working with brand manual from the client. But there was something I forgot about while making the manual the first time.
 
