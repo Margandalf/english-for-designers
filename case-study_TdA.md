@@ -3,6 +3,8 @@
 So we have this competition for young developers to show them the real deal when doing a project. High schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
 In my part, they are working with brand manual from the client. But there was something I forgot about while making the manual the first time.
 
+## Graphic designers VS. Developers
+
 ## I forgot that developers will be working with it
 When you have a developer, they work with elements slightly differently then graphic designers. So Lalezar as a font was definitely
 ### not a good idea
@@ -22,3 +24,8 @@ Sedond try
 ### Headings
 What graphic designers ofter forget about
 The fight between graphic designers and developers
+
+### AJ lesson notes
+- všechno ve 3 bodech
+- různé obrázky (grafika, fotka, screenshot)
+- 
