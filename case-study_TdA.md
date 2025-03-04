@@ -4,7 +4,6 @@ In my part, they are working with brand manual from the client. But there was so
 ## I forgot that developers will be working with it
 When you have a developer, they work with elements slightly differently then graphic designers. So Lalezar as a font was definitely
 ### not a good idea
-<span style="color:#fff; font-family: 'Lalezar';">not a good idea</span>
 
 ![Snímek obrazovky 2025-03-04 131210](https://github.com/user-attachments/assets/be2022c7-bd06-46a8-b070-83914022e6a5)
 1. We have to work with developer friendly fonts
