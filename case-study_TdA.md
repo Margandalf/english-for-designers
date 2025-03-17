@@ -1,14 +1,18 @@
 # Think different when you work with developers
 
-Each year, our student association organize a competition called Tour de App for young developers from Czech and Slovak Republic giving them real-world experience.
+-# Haha, TdA will follow you everywhere. 
+
+**Each year**, our [student association](http://scg.cz/) organize a competition called Tour de App for young developers from Czech and Slovak Republic giving them real-world experience.
 These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
 In my part, they are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time.
 
-Last year I was designing a brand for fictional company, so called Teacher digital Agency, with no experience with websites. I didn't think about the space in which logo will be put in, I didn't think about the font  
+## Better safe then sorry
+**Last year** I was designing a brand for fictional company, so called Teacher digital Agency, with no experience with websites. I recommend you to take time with the research. I felt so guilty hearing from our contestants about troubles with the font and the logo and even the coloring. Every day we learn something new and this really taught me a lot and was an excelent experience.
 
-Haha, TdA will follow you everywhere. 
 
-This year I was not gonna make the same mistake. For the new fictional client – whom we named Think different Academy⁠⁠⁠⁠⁠⁠ – 
+
+**This year** I was not gonna make the same mistake. For the new fictional client – whom we named Think different Academy⁠⁠⁠⁠⁠⁠ – 
+
 AFTER
 (Power of three for structure and impact.)
 Third year of Tour de App, final of the competition takes place in Brno, highschoolers
