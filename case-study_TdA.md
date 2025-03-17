@@ -4,7 +4,7 @@
 ## The story
 
 ### 
-**Each year**, our [student association](http://scg.cz/) organize a competition called Tour de App for young developers from Czech and Slovak Republic giving them real-world experience.
+**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers from Czech and Slovak Republic giving them real-world experience.
 These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
 In my part, they are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time.
 
