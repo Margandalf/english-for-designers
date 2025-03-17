@@ -1,9 +1,23 @@
 # Think different when you work with developers
 
-So we have this competition for young developers to show them the real deal when doing a project. High schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
-In my part, they are working with brand manual from the client. But there was something I forgot about while making the manual the first time.
+Each year, our student association organize a competition called Tour de App for young developers from Czech and Slovak Republic giving them real-world experience.
+These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
+In my part, they are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time.
 
-## Graphic designers VS. Developers
+Last year I was designing a brand for fictional company, so called Teacher digital Agency, with no experience with websites. I didn't think about the space in which logo will be put in, I didn't think about the font  
+
+Haha, TdA will follow you everywhere. 
+
+This year I was not gonna make the same mistake. For the new fictional client – whom we named Think different Academy⁠⁠⁠⁠⁠⁠ – 
+AFTER
+(Power of three for structure and impact.)
+Third year of Tour de App, final of the competition takes place in Brno, highschoolers
+This year, the project was a web app for a fictional client. The students then work together to complete the assignment. They set up a meeting and ask the client how they envision the web app should look.
+My role in this project was to work with the client’s brand manual. But there was one issue. I had overlooked a seemingly minor detail when creating the brand’s visual style manual the first time, and it became a lesson I won’t forget:
+The devil is in the details, and even the smallest oversight can make a big impact on any project.
+
+
+## Graphic designers Versus Developers
 
 ## I forgot that developers will be working with it
 When you have a developer, they work with elements slightly differently then graphic designers. So Lalezar as a font was definitely
@@ -28,4 +42,4 @@ The fight between graphic designers and developers
 ### AJ lesson notes
 - všechno ve 3 bodech
 - různé obrázky (grafika, fotka, screenshot)
-- 
+- Context for audience
