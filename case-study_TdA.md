@@ -1,6 +1,6 @@
 # Think different when you work with developers
 
--# Haha, TdA will follow you everywhere. 
+<sub>Haha, TdA will follow you everywhere.<sub>
 
 **Each year**, our [student association](http://scg.cz/) organize a competition called Tour de App for young developers from Czech and Slovak Republic giving them real-world experience.
 These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
