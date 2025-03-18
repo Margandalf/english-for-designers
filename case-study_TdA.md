@@ -8,17 +8,21 @@
 These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
 In my part, they are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time.
 
+![image](https://github.com/user-attachments/assets/7df181c1-57b1-49a4-826e-cbf8ad0a5cda)
+
+<sub>Picture of the competition<sub>
+
 ### Better safe then sorry
 **Last year** I was designing a brand for fictional company, so called Teacher digital Agency, with no experience with websites. I recommend you to take time with the research. I felt so guilty hearing from our contestants about troubles with the font and the logo and even the coloring. Every day we learn something new and this really taught me a lot and was an excelent experience.
 
-![image](https://github.com/user-attachments/assets/5b0fd2c5-c895-4b02-90f7-6180016d8b76)
+![image](https://github.com/user-attachments/assets/005fa2cf-354b-4ea6-adc2-9b9cabfe7096)
 
 <sub>Picture of brand for Teacher digital Agency<sub>
 
 ### Jumping in the water again and again
 **This year** I was prepared not to make the same mistake again. For the new fictional client – whom we now named Think different Academy⁠⁠⁠⁠⁠⁠ – I asked my collegues to help me. So what they did was taking another competition we have and ordering me to use the font and the colors we already have trouble using ourselves! But I knew it could work out if I gave our contestants the right guide like warning them about the red and blue not looking good right next to each other.
 
-![image](https://github.com/user-attachments/assets/ce428af9-7485-48d2-ae90-f8c01ed4c025)
+![image](https://github.com/user-attachments/assets/b1e49095-18d8-4c90-b6a1-9dcf20e68de7)
 
 <sub>Picture of brand for Think different Academy<sub>
 
