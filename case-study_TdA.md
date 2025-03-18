@@ -1,4 +1,7 @@
 # Think different when you work with App developers
+# Think different, App developers are coming
+# Think different = Work different
+
 
 <sub>Haha, TdA will follow you everywhere.<sub>
 ## The story
@@ -12,7 +15,7 @@ In my part, they are working with brand manual from the client. Unfortunitely th
 
 <sub>Picture of the competition<sub>
 
-### Better safe then sorry
+### Better safe than sorry
 **Last year** I was designing a brand for fictional company, so called Teacher digital Agency, with no experience with websites. I recommend you to take time with the research. I felt so guilty hearing from our contestants about troubles with the font and the logo and even the coloring. Every day we learn something new and this taught me a lot and was an excelent experience.
 
 ![image](https://github.com/user-attachments/assets/005fa2cf-354b-4ea6-adc2-9b9cabfe7096)
