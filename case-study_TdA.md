@@ -30,11 +30,12 @@ AFTER
 Third year of Tour de App, final of the competition takes place in Brno, highschoolers
 This year, the project was a web app for a fictional client. The students then work together to complete the assignment. They set up a meeting and ask the client how they envision the web app should look.
 
-## My role
-in this project was to work with the client’s brand manual. But there was one issue. I had overlooked a minor detail when creating the brand’s visual style manual the first time, and it became a lesson I won’t forget:
-The devil is in the details, and even the smallest oversight can make a big impact on any project.
 
 WIP
+## My role
+in this project was to work with the client’s brand manual. But there was one issue.
+The devil is in the details, and even the smallest oversight can make a big impact on any project.
+
 ### Graphic designers Versus Developers
 Knowing designers and developers sometimes come to conflict about what is doable or what look better, I want to share this story. Let's be good to our developer. The work they do is stressing and tiring. I forgot that developers will be working with it
 When you have a developer, they work with different elements then graphic designers. So Lalezar as a font was definitely
