@@ -1,43 +1,51 @@
 # Think different, App developers are coming
 
-<sub>Haha, TdA will follow you everywhere.<sub>
 
-I've heard some rumors that graphic designers and developers have this huge conflict.
+I've come to rumors that graphic designers and developers have this huge conflict. Well... I never saw it that way.
+
+![IMG_8188](https://github.com/user-attachments/assets/859ce80c-91f7-46c0-976e-1e2cb54b9b1b)
+<sub>Me helping out on Tour de App competition final<sub>
 
 ## The story
 
 ### Heading to come
-**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers.
-These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like.
-In my part, they are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. So let's dive into it.
+**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers. These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like. And here comes my part. They are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. I promise. I was not against developers. These things just happen.
 
 ![image](https://github.com/user-attachments/assets/7df181c1-57b1-49a4-826e-cbf8ad0a5cda)
 
-<sub>Picture of the competition<sub>
+<sub>Picture of the Tour de App competition<sub>
 
-### Better safe than sorry
-**Last year** I was designing a brand for the fictional company, so called Teacher digital Agency, with no experience with websites. Oh there was trouble to come. The font and the logo and even the coloring. Students didn't very much like working with it. So I took notes. For the next was gonna be perfect.
+### Ask the people that will work with it
+**Last year** I was designing a brand for the fictional company, so called Teacher digital Agency. So I designed the logo, choose colours and fonts and forgot about something. They will have to use all of it on a web page. Oh there was trouble to come. Students had some issues with the font because it was not due to technical reasons working out for them. The logo didn't fit on the site well and the colors were too loud. So I took notes. For the next designing was gonna be perfect.
 
 ![image](https://github.com/user-attachments/assets/005fa2cf-354b-4ea6-adc2-9b9cabfe7096)
 
-<sub>Picture of brand for Teacher digital Agency<sub>
+<sub>Picture of brand for first fictional company Teacher digital Agency<sub>
 
-### Jumping in the water again and again
-**This year** I am not going to make the same mistake again. For the new fictional client – whom we now named Think different Academy⁠⁠⁠⁠⁠⁠ – I asked my collegues to help me. So what they did was taking another competition we have and telling me to use the font and the colors we already have trouble using ourselves! But I knew it could work out if our contestants had the right guide. Like warning them about the red and blue not looking good right next to each other. Or maybe be carefull to use the logo the right way. I've written down some points into the new brand manual.
+### Make some adjustments
+**This year** For the new fictional client – whom we now named Think different Academy⁠⁠⁠⁠⁠⁠ – I asked my collegues to help me. So what they did was taking another competition we have and telling me to use the font and the colors we already have trouble using ourselves! But I knew it could work out if our contestants had the right guide. Like warning them about the red and blue not looking good right next to each other. Or maybe be carefull to use the logo the right way. I've written down some points into the new brand manual.
 
 ![image](https://github.com/user-attachments/assets/b1e49095-18d8-4c90-b6a1-9dcf20e68de7)
 
-<sub>Picture of brand for Think different Academy<sub>
+<sub>Picture of brand for second fictional company Think different Academy<sub>
 
-## What am I taking from this experience
+## Take notes
 - Think about who you are making the project for. 
 - They liked the logo
 
 Here are some results from the young developers.
 
-![koooooocka_admin](https://github.com/user-attachments/assets/17b36984-b23e-4698-94f3-f5e053fc19ff)
-![Code-wizards_zebricek](https://github.com/user-attachments/assets/dfe6ef07-dc1f-4b41-a7d8-c6ca9952820c)
 
+![Datový zdroj 6](https://github.com/user-attachments/assets/fbd705b0-d175-4a19-941c-d08b060b1f45)
+<sub>One of the best apps from competitions second round <sub>
+
+![Datový zdroj 4](https://github.com/user-attachments/assets/f9271695-f185-4ccb-928b-f1b5eb76fc71)
+
+<sub>Winning team app from the competitions final<sub>
+
+![IMG_9106](https://github.com/user-attachments/assets/f5ae3990-3e79-4451-9943-374826f5cac1)
+
+<sub>Winning team<sub>
 
 WIP
 ### Graphic designers Versus Developers
