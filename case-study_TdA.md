@@ -10,7 +10,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 ## The story
 
 ### It's not only about the code. Tour de App
-**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers. These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like. And here comes my part. They are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. I promise. I was not against developers. These things just happen.
+**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers giving them real-world experience. These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like. And here comes my part. They are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. I promise. I was not against developers. These things just happen.
 
 ![image](https://github.com/user-attachments/assets/7df181c1-57b1-49a4-826e-cbf8ad0a5cda)
 
@@ -33,10 +33,6 @@ I've come to rumors that graphic designers and developers have this huge conflic
 <sub>Picture of brand for second fictional company Think different Academy 2024<sub>
 
 
-## Take notes
-- Think about who you are making the project for. 
-- They liked the logo
-
 Here are some results from the young developers. I was thrilled when I could just sit there and watching such talents present the whole project they are so proud of filled with my design.
 
 
@@ -50,15 +46,3 @@ Here are some results from the young developers. I was thrilled when I could jus
 ![IMG_9106](https://github.com/user-attachments/assets/f5ae3990-3e79-4451-9943-374826f5cac1)
 
 <sub>Winning team<sub>
-
-
-WIP
-### Graphic designers Versus Developers
-Knowing designers and developers sometimes come to conflict about what is doable or what look better, I want to share this story. Let's be good to our developer. The work they do is stressing and tiring. I forgot that developers will be working with it
-When you have a developer, they work with different elements then graphic designers. So Lalezar as a font was definitely
-#### not a good idea
-
-### What to add
-![Snímek obrazovky 2025-03-04 131210](https://github.com/user-attachments/assets/be2022c7-bd06-46a8-b070-83914022e6a5)
-1. Lesson: Work with developer friendly fonts
-TdA - giving them real-world experience.
