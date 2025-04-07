@@ -35,6 +35,8 @@ In my part, they are working with brand manual from the client. Unfortunitely th
 
 Here are some results from the young developers.
 
+![koooooocka_admin](https://github.com/user-attachments/assets/17b36984-b23e-4698-94f3-f5e053fc19ff)
+![Code-wizards_zebricek](https://github.com/user-attachments/assets/dfe6ef07-dc1f-4b41-a7d8-c6ca9952820c)
 
 
 WIP
