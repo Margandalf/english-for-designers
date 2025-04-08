@@ -9,7 +9,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 
 ![Code-wizards_zebric](https://github.com/user-attachments/assets/65547774-6bdf-4949-b370-c001470c8896)
 
-<sub>A little orientation map<sub>
+<sub>A little orientation map. SCG for Student Cyber Games. <TdA> for <Tour de App>. PRMKT for Public relations and marketing.<sub>
 
 
 ## The story
