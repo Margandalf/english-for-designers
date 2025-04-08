@@ -4,9 +4,12 @@
 I've come to rumors that graphic designers and developers have this huge conflict. Well... I never saw it that way. Until...
 
 ![IMG_8188](https://github.com/user-attachments/assets/859ce80c-91f7-46c0-976e-1e2cb54b9b1b)
+
 <sub>Me helping out on Tour de App competition final<sub>
 
 ![Code-wizards_zebric](https://github.com/user-attachments/assets/65547774-6bdf-4949-b370-c001470c8896)
+
+<sub>A little orientation map<sub>
 
 
 ## The story
