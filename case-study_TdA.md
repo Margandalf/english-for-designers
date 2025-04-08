@@ -46,7 +46,7 @@ Here are some results from the young developers. I was thrilled when I could jus
 
 ![Datový zdroj 4](https://github.com/user-attachments/assets/f9271695-f185-4ccb-928b-f1b5eb76fc71)
 
-<sub>Winning team app from the competitions final<sub>
+<sub>Winning team app from the competitions final. Lukáš Procházka, Richard Šebesta and Lubomír Bulej. <sub>
 
 ![IMG_9106](https://github.com/user-attachments/assets/f5ae3990-3e79-4451-9943-374826f5cac1)
 
