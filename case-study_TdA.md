@@ -22,7 +22,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 <sub>Picture of the Tour de App competition<sub>
 
 
-### 10 out of 10 developers do not recommend Lalezar on web app
+### 10 out of 10 developers do not recommend Lalezar font on web app
 **Last year** I was the head of PR & Marketing. I was designing a brand for the fictional company, so called Teacher digital Agency. So I designed the logo, choose colours and fonts and forgot about something. They will have to use all of it on a web page. Oh there was trouble to come. Students had some issues with the font because it was not due to technical reasons working out for them. The logo didn't fit on the site well and the colors were too loud. So I took notes. For the next designing was gonna be perfect.
 
 ![image](https://github.com/user-attachments/assets/005fa2cf-354b-4ea6-adc2-9b9cabfe7096)
