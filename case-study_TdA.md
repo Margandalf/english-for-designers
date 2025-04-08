@@ -18,7 +18,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 
 
 ### 10 out of 10 developers do not recommend Lalezar on web app
-**Last year** I was designing a brand for the fictional company, so called Teacher digital Agency. So I designed the logo, choose colours and fonts and forgot about something. They will have to use all of it on a web page. Oh there was trouble to come. Students had some issues with the font because it was not due to technical reasons working out for them. The logo didn't fit on the site well and the colors were too loud. So I took notes. For the next designing was gonna be perfect.
+**Last year** I was the head of PR & Marketing. I was designing a brand for the fictional company, so called Teacher digital Agency. So I designed the logo, choose colours and fonts and forgot about something. They will have to use all of it on a web page. Oh there was trouble to come. Students had some issues with the font because it was not due to technical reasons working out for them. The logo didn't fit on the site well and the colors were too loud. So I took notes. For the next designing was gonna be perfect.
 
 ![image](https://github.com/user-attachments/assets/005fa2cf-354b-4ea6-adc2-9b9cabfe7096)
 
@@ -26,7 +26,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 
 
 ### Make some adjustments
-**This year** For the new fictional client – whom we now named Think different Academy⁠⁠⁠⁠⁠⁠ – I asked my collegues to help me. So what they did was taking another competition we have and telling me to use the font and the colors we already have trouble using ourselves! But I knew it could work out if our contestants had the right guide. Like warning them about the red and blue not looking good right next to each other. Or maybe be carefull to use the logo the right way. I've written down some points into the new brand manual. How it worked out? Some used the guide very well but for most it was too much for them. Two colors would have been enough. For the logo I made a vertical and a horizontal version so there was not trouble there. They very much liked icons that I created from the logo. The typeface was ok but it was missing some font that can like stand out.
+**This year** For the new fictional client – whom we now named Think different Academy⁠⁠⁠⁠⁠⁠ – I asked my collegues to help me. Now not having too much on my shoulders. So what they did was taking another competition we have and telling me to use the font and the colors we already have trouble using ourselves! But I knew it could work out if our contestants had the right guide. Like warning them about the red and blue not looking good right next to each other. Or maybe be carefull to use the logo the right way. I've written down some points into the new brand manual. How it worked out? Some used the guide very well but for most it was too much for them. Two colors would have been enough. For the logo I made a vertical and a horizontal version so there was not trouble there. They very much liked icons that I created from the logo. The typeface was ok but it was missing some font that can like stand out.
 
 ![image](https://github.com/user-attachments/assets/b1e49095-18d8-4c90-b6a1-9dcf20e68de7)
 
