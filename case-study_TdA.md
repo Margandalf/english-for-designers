@@ -10,7 +10,7 @@ I've come to rumors that graphic designers and developers have this huge conflic
 ## The story
 
 ### It's not only about the code. Tour de App
-**Each year**, our [student association](http://scg.cz/) organize a competition called [Tour de App](https://tourde.app/) for young developers giving them real-world experience. These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like. And here comes my part. They are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. I promise. I was not against developers. These things just happen.
+**Each year**, our [student association](http://scg.cz/) Student Cyber Games organizes a competition called [Tour de App](https://tourde.app/) for young developers giving them real-world experience. These high schoolers work on an assignment with a fictional client. They have to arrange a meeting and ask the client how should the web app look like. And here comes my part. They are working with brand manual from the client. Unfortunitely there was something I forgot about while making the manual the first time. I promise. I was not against developers. These things just happen.
 
 ![image](https://github.com/user-attachments/assets/7df181c1-57b1-49a4-826e-cbf8ad0a5cda)
 
