@@ -17,6 +17,17 @@ Finals of competition pIšQworky
 ## At school I'm good at this, can I try?
 While studying Exhibition architecture I had so much fun learning how to use all these graphic programmes. But there just wasn't a place for me to try at school. If you're struggling to find the right chance, just ask for it. I did so in Student Cyber Games and that's how my graphic design journey really begun. I started little but now have made so many competition graphic campaings.
 
+
+## Returning the favor
+I felt that I still didn't give to the community Student Cyber Games my all. I cannot leave you guys with this image since I know you're so much better then what you are showing.
+
+![image](https://github.com/user-attachments/assets/b7a5e0d2-fda7-4e12-b44a-a28e73e686a1)
+How the visuals are used now
+
+![image](https://github.com/user-attachments/assets/96cc738b-1c6e-40a5-97f4-abb0b62f6ca4)
+How the visuals could be used instead
+
+
 ## I like doing this
 Since I found that graphic design really fullfilles me, I had to look for a place to learn more. And that's how I got here. I have met so many talented people at this school and I hope you guys will be still so awesome.
 
