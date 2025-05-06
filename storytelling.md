@@ -11,7 +11,7 @@ Five years ago, everything changed without me even noticing. I was cut out from 
 Finals of competition pIšQworky
 
 ## At school I'm good at this, can I try?
-While studying Exhibition architecture I had so much fun learning how to use all these graphic programmes. But there just wasn't a place for me to try at school. If you're struggling to find the right chance, just ask for it. I did so in Student Cyber Games and that's how my graphic design journey really begun. I started little but now have made so many competition graphic campaings.
+While studying Exhibition architecture I had so much fun learning how to use all these graphic programmes. But there just wasn't a place for me to try at school. If you're struggling to find the right chance, just ask for it. I did so in Student Cyber Games and that's how my graphic design journey really begun. I started little but now have made so many competition graphic campaings just because I asked once.
 
 
 ## Returning the favor
